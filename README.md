@@ -100,7 +100,7 @@ The file (`Bikes_Sales_Dashboard.xlsx`) is organized into four sheets, each with
 | **`bike_buyers`** | Raw data as received — preserved untouched for auditability | 1,000 | ![Raw](https://img.shields.io/badge/Type-Raw%20Data-lightgrey?style=flat-square) |
 | **`Clean Sheet`** | Deduplicated, standardized, and bucketed working dataset | 1,026 | ![Clean](https://img.shields.io/badge/Type-Cleaned-2E8B57?style=flat-square) |
 | **`PIVOT TABLE`** | Three pivot tables that power every chart on the dashboard | — | ![Pivot](https://img.shields.io/badge/Type-Aggregated-D2691E?style=flat-square) |
-| **`DASHBOARD`** | The final one-page interactive view | — | ![Dash](https://img.shields.io/badge/Type-Visualization-1F77B4?style=flat-square) |
+| **`DASHBOARD`** | The final one-page interactive view| ![Dash](https://img.shields.io/badge/Type-Visualization-1F77B4?style=flat-square) |
 
 ### Dataset Schema (14 fields)
 
@@ -282,8 +282,6 @@ I'm **Satish**, an M.S. Business Analytics candidate at **Golden Gate University
   </a>
 </p>
 
-*(← update the four URLs above before pushing)*
-
 ---
 
 ## ⭐ If you found this project useful…
@@ -294,7 +292,7 @@ I'm **Satish**, an M.S. Business Analytics candidate at **Golden Gate University
   <img src="https://img.shields.io/badge/Feedback%20Appreciated-%F0%9F%92%AC-success?style=for-the-badge" />
 </p>
 
-…drop a star on the repo — it helps recruiters find my work and helps me know what's landing.
+…drop a star on the repo it helps recruiters find my work and helps me know what's landing.
 
 ---
 
