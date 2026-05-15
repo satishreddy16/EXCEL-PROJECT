@@ -280,9 +280,6 @@ I'm **Satish**, an M.S. Business Analytics candidate at **Golden Gate University
   <a href="https://github.com/satishreddy16">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
----
 
 ## ⭐ If you found this project useful…
 
