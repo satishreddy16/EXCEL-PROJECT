@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Plugins-None-success?style=flat-square" />
 </p>
 
-*Built entirely in Microsoft Excel — no plugins, no add-ins. Pivot tables, slicers, and native chart objects only.*
+*Built entirely in Microsoft Excel no plugins, no add-ins. Pivot tables, slicers, and native chart objects only.*
 
 ---
 
@@ -47,7 +47,7 @@
 A bicycle retailer wanted to understand **which customer segments are most likely to purchase a bike** so the marketing team could move from "spray-and-pray" campaigns to targeted outreach. I was given an unvalidated dataset of 1,000 customer profiles and asked to deliver a dashboard a non-technical sales manager could read in under 30 seconds.
 
 **Business questions answered:**
-1. What does the average bike buyer look like — age, income, region, lifestyle?
+1. What does the average bike buyer look like age, income, region, lifestyle?
 2. Is there an income gap between buyers and non-buyers?
 3. Does commute distance actually predict purchase intent?
 4. Which age group is the most profitable target audience?
@@ -271,16 +271,13 @@ I'm **Satish**, an M.S. Business Analytics candidate at **Golden Gate University
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-handle">
+  <a href="https://linkedin.com/in/satishreddy16">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:satishreddygunukula@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-site.com">
-    <img src="https://img.shields.io/badge/Portfolio-2E8B57?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-  <a href="https://github.com/your-handle">
+  <a href="https://github.com/satishreddy16">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
